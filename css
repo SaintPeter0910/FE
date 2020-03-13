@@ -1,0 +1,92 @@
+.hello {
+    text-align: center;
+    color: red;
+    background-image: url("https://i.pinimg.com/originals/ae/a5/62/aea562e9226fd6c166a3e9c0bf2be824.jpg");
+    background-color: #cccccc;
+    padding-top: 50mm;
+    font-family: cursive;
+    text-shadow: 4px 3px 0 #7A7A7A;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: 400;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+
+.Banner {
+    text-align: center;
+    background-image: url("https://fitness.moleculartestinglabs.com/wp-content/uploads/sites/19/2016/12/blue-gym-background.jpg");
+    color: red;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 20px;
+}
+.table-one {
+    font-size: large;
+    margin: 50px;
+    background-image: "Products/1.jpg";
+    text-align: center;
+}
+
+.product1 img {
+    width: 300px;
+    height: auto; 
+}
+
+.try1 {
+    background-image: "Products/1.jpg";
+}
+
+.table-two {
+    text-align: center;
+    color: black;
+}
+
+
+
+.table-four {
+    text-align: center;
+    color: white;
+    background-image: url("https://s3.amazonaws.com/zenplannerwordpress-stack0/wp-content/uploads/sites/119/2018/07/25103801/Gym-Background-Final.jpg");
+}
+
+.table-four img {
+    width: 280px;
+    height: auto;
+}
+
+.table-five {
+    text-align: justify;
+}
+
+.table-five img {
+    width: 100px;
+    height:auto;
+    float: left;
+}
+
+.headlines {
+    font-size: 30px;
+}
+
+.table-six {
+    margin-top: 50mm;
+}
+
+.table-six img {
+    width: 200px;
+    height:auto;
+}
+
+.ending-container img {
+    width: 200px;
+    height: 30px;
+}
+
+.ending-container {
+    margin-top: 30mm;
+    
+}
