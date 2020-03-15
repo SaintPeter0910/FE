@@ -1,0 +1,28 @@
+.log-in-table {
+    text-align: center;
+}
+
+.sub-main-page-head {
+    background-image: url("https://www.getaeros.com/wp-content/uploads/2019/11/orange.jpg");
+    margin-left: 10mm;
+}
+
+.main-page-head {
+    margin-left: 200mm;
+}
+
+.btn-login {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 10px 40px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+
+
+.ending-news {
+    padding-left: 30mm;
+    
+}
