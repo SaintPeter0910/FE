@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Homepage</title>
+    <link rel="stylesheet" type="text/css" href="CSS/signinstyles.css">
+  </head>
+
+  <body>
+    <div class="page-header">
+      <table>
+        <tr>
+          <td>Logo</td>
+          <td><input type="text" placeholder="Search.."></td>
+          <td><button type="submit" class="btn btn-info">Địa chỉ</button>
+          <button type="submit" class="btn btn-info">Hỗ trợ</button>
+          <button type="submit" class="btn btn-info">Tài khoản</button>
+          <button type="submit" class="btn btn-info">Giỏ hàng</button></td>
+        </tr>
+      </table>
+    </div>
+
+    <table>
+      <tr>
+        <td style="padding-left: 10mm;"><a href="https://google.com.vn">Nam</a></td>
+        <td style="padding-left: 10mm;"><a href="https://google.com.vn">Nữ</a></td>
+        <td style="padding-left: 10mm;"><a href="https://google.com.vn">Phụ kiện</a></td>
+        <td style="padding-left: 10mm;"><a href="https://google.com.vn">Giảm giá 50%</a></td>
+        <td style="padding-left: 10mm;"><a href="https://google.com.vn">Nữ</a></td>
+        <td style="padding-left: 10mm;"><a href="https://google.com.vn">Giảm giá 50%</a></td>
+        <td style="padding-left: 10mm;"><a href="https://google.com.vn">Phụ kiện</a></td>
+      </tr>
+    </table>
+
+    <div class="main-page-head">
+      <table class="sub-main-page-head">
+        <tr>
+          <td><a href="https://google.com.vn">Trang chủ</a></td>
+          <td>></td>
+          <td><a href="https://google.com.vn">Sản phẩm</a></td>
+        </tr>
+    </div>
+
+    <div class="log-in">
+      <table style="text-align: center;">
+        <tr>
+          <td style="font-size: 20px;"><b>Đăng ký tài khoản</b></td>
+        </tr>
+        <tr>
+          <td style="font-size: 20px;"><input type="text" placeholder="Họ và tên"></td>
+        </tr>
+        <tr>
+          <td style="font-size: 20px;"><input type="text" placeholder="Email"></td>
+        </tr>
+        <tr>
+          <td style="font-size: 20px;"><input type="text" placeholder="Mật khẩu"></td>
+        </tr>
+        <tr>
+          <td style="font-size: 20px;"><input type="text" placeholder="Nhập lại mật khẩu"></td>
+        </tr>
+        <tr>
+          <td><button type="submit" class="btn-login" role="button">Đăng ký</button></td>
+        </tr>
+        <tr>
+          <td>Hoặc đăng nhập</td>
+        </tr>
+        <tr>
+          <td style="padding-right: 100mm;"><button type="submit" class="btn-login" role="button"><u>Facebook</u></button></td>
+          <td style="padding-right: 20mm;"><button type="submit" class="btn-login" role="button"><u>Google</u></button></td>
+        </tr>
+        <tr>
+          <td>Bạn đã có tài khoản đăng nhập</td>
+          <td><a href="https://openclassrooms.com/en/courses/2479876-build-your-website-with-html5-and-css3/2490386-creating-links">tại đây</a></td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="ending-container">
+      <table>
+        <tr>
+          <td>Insert Logo Here</td>
+          <td><b>Tag sản phẩm</b></td>
+          <td><b>Địa chỉ cửa hàng</b></td>
+        </tr>
+        <tr>
+          <td class = "ending-news">
+            <table>
+              <tr>
+                <td>
+                  <p>Tiêu đề bài báo 7</br></p>    
+                  <p>Theo dõi</br></p>                                                    
+                  <p><button type="submit" class="btn btn-link btn-lg">Facebook</button></td></p>
+              </tr>
+            </table>
+          </td>
+
+          <td class="ending-tag">
+            <table>
+              <tr>
+                <td colspan="3">
+                  <button type="submit" class="btn btn-info">Casio</button>
+                  <button type="submit" class="btn btn-info">Phụ kiện</button>
+                  <button type="submit" class="btn btn-info">Dây lưng</button>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <button type="submit" class="btn btn-info">Ví da</button>
+                  <button type="submit" class="btn btn-info">Túi xách</button>
+                  <button type="submit" class="btn btn-info">Dw</button>
+              </td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <button type="submit" class="btn btn-info">Movado</button>
+                  <button type="submit" class="btn btn-info">Lorem</button>
+                  <button type="submit" class="btn btn-info">Ipsum</button>
+              </td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <button type="submit" class="btn btn-info">Dolor</button>
+                  <button type="submit" class="btn btn-info">Ví da</button>
+                  <button type="submit" class="btn btn-info">Túi xách</button>
+              </td>
+              </tr>
+              <tr>
+                <td>
+                  <a href="#" class="btn btn-info" role="button">Trở về trang chủ</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
